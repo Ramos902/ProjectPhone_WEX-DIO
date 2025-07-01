@@ -1,0 +1,14 @@
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\bin\Debug\net10.0\ProjectPhone.exe
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\bin\Debug\net10.0\ProjectPhone.deps.json
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\bin\Debug\net10.0\ProjectPhone.runtimeconfig.json
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\bin\Debug\net10.0\ProjectPhone.dll
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\bin\Debug\net10.0\ProjectPhone.pdb
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\obj\Debug\net10.0\ProjectPhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\obj\Debug\net10.0\ProjectPhone.AssemblyInfoInputs.cache
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\obj\Debug\net10.0\ProjectPhone.AssemblyInfo.cs
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\obj\Debug\net10.0\ProjectPhone.csproj.CoreCompileInputs.cache
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\obj\Debug\net10.0\ProjectPhone.dll
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\obj\Debug\net10.0\refint\ProjectPhone.dll
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\obj\Debug\net10.0\ProjectPhone.pdb
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\obj\Debug\net10.0\ProjectPhone.genruntimeconfig.cache
+C:\Documentos Ramos\DIO Wex - Bootcamp\(5)ProjectPhone\ProjectPhone\obj\Debug\net10.0\ref\ProjectPhone.dll
